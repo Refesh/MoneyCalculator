@@ -1,0 +1,8 @@
+7
+EUR - CAD - 3.25
+EUR - CNY - 3.1
+EUR - EGP - 2.3
+EUR - GIP - 4.5
+EUR - CHF - 2.2
+EUR - GBP - 7.6
+EUR - VEF - 0.8

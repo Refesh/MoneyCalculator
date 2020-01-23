@@ -1,0 +1,9 @@
+8
+Canada Dollar -	CAD - $
+China Yuan Renminbi - CNY - ¥
+Egypt Pound - EGP - £
+Euro Member Countries - EUR - €
+Gibraltar Pound - GIP - £
+Switzerland Franc - CHF - CHF
+United Kingdom Pound - GBP - £
+Venezuela Bolívar - VEF	- Bs
